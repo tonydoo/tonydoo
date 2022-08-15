@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonydoo
-- 👀 I’m interested in Chat Bots, Full Stack Web Development, UI/UX
+- 👀 I’m interested in developing solutions that enable businesses grow and make lives better. Full Stack Developer and Designer with speical interests in Startups, Media, Technology, Digital and Growth Hacking Strategies.
 - 🌱 I’m currently learning Growth Hacking and Digital Transformation Strategies
-- 💞️ I’m looking to collaborate on Web Development, UI/UX, Product Development and Product Management
+- 💞️ I’m looking to collaborate on Chat Bots, Full Stack Web Development, UI/UX, Visual Design, Product Development and Product Management
 - 📫 How to reach me - Reach out via email: info@tonydoovisuals.com
 
 <!---
